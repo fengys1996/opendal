@@ -7,9 +7,9 @@ This service can be used to:
 - [x] write
 - [x] create_dir
 - [x] delete
+- [x] list
 - [ ] copy
 - [ ] rename
-- [ ] ~~list~~
 - [ ] ~~presign~~
 - [ ] blocking
 
